@@ -1,0 +1,37 @@
+body {
+    background-color: beige;
+}
+
+h3, p, table{
+    text-align: center;
+    font-family: sans-serif;
+    color: rgba(57, 10, 102, 0.607);
+}
+
+td {
+    padding: 5px 10px;
+    border-right: 5px solid rgba(90, 249, 21, 0.968);
+    border-bottom: 5px solid rgba(144, 195, 204, 0.884));
+    background-color: rgba(144, 195, 204, 0.884);
+}
+
+table {
+    margin: 25px auto;
+}
+
+th {
+    padding: 15px 10px;  
+    border: 5px solid rgba(90, 249, 21, 0.968);
+    background-color: rgb(98, 178, 224);
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: fantasy;
+    
+}
+
+.tag {
+    letter-spacing: 2px;
+}
